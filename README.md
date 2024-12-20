@@ -79,6 +79,7 @@ The `evaluate` function computes accuracy on validation data to ensure the model
 - MLab Team, Stanford ACM
 - Joseph Le
 - Jadelyn Tran
+- James Zhang
 
 ## Notes
 This project demonstrates the practical application of deep learning techniques to image classification tasks. For further exploration, consider trying different architectures or datasets to enhance your understanding of CNNs.
